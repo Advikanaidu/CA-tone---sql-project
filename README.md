@@ -1,2 +1,2 @@
-# CA-tone---sql-project
+# capto
 ai
